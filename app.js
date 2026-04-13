@@ -7,11 +7,11 @@ import {
   remove
 } from "https://www.gstatic.com/firebasejs/12.1.0/firebase-database.js";
 
-// 🔥 CONFIG DO SEU FIREBASE
+// 🔥 CONFIG DO SEU FIREBASE (JÁ PREENCHIDO)
 const firebaseConfig = {
   apiKey: "AIzaSyB-s6x14cpoCzmeS4GVpx6n1-dZBdn8GDo",
   authDomain: "site-02-e50d8.firebaseapp.com",
-  databaseURL: "COLE_AQUI_SEU_DATABASE_URL",
+  databaseURL: "https://site-02-e50d8-default-rtdb.firebaseio.com/",
   projectId: "site-02-e50d8",
   storageBucket: "site-02-e50d8.firebasestorage.app",
   messagingSenderId: "598725850557",
